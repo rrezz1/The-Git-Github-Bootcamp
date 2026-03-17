@@ -2,28 +2,75 @@
 
 ## 13)
 
-### **[slide](./Others/slides_13.pdf)**
+### **[slide](./Resources/slides_13.pdf)**
 
-### **[terminal](./Others/terminal_13.pdf)**
+### **[terminal](./Resources/terminal_13.pdf)**
 
 ## 14)
 
-## **list of git client**
+### **list of git client**
 >```
 >https://git-scm.com/tools/guis
 >```
 ## 15)
 
-## **git for windows dwn**
+### **git for windows dwn**
 >```
 >https://git-scm.com/install/windows
 >```
-## **vscode dwn**
+
+### **vscode dwn**
 >```
 >https://code.visualstudio.com/
 >```
 
-## **per verzion**
+### **per verzion**
 >```
 >git --version
 >```
+
+## 16)
+
+### **mac git dwn**
+>```
+>https://sourceforge.net/projects/git-osx-installer/
+>```
+
+
+## 17)
+
+
+### **to set username**
+>```
+>git config --global user.name "rrezz"
+>```
+
+
+### **acking for username**
+>```
+>git config user.name
+>```
+
+### **to set email**
+>```
+>git config --global user.email rrezbuzuku@gmail.com
+>```
+
+
+### **acking for email**
+>```
+>git config user.email
+>```
+
+
+## 18)
+
+
+### **gui dwn**
+>```
+>https://www.gitkraken.com/
+>```
+
+## 19)
+
+### **[terminal](./Resources/slides_19.pdf)**
