@@ -10,3 +10,9 @@
 >```
 >git status
 >```
+
+### **per me kriju ni empty git repo ose me rinicializu nese ajo veqse egziston**
+>```
+>git init
+>```
+>krijunem hiden file
