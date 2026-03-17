@@ -2,4 +2,4 @@
 
 ## 34)
 
-### **[Slide for this section](./Resources/slide_20))**
+### **[Slide for this section](./Resources/slide_30)**
