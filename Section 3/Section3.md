@@ -74,3 +74,32 @@
 ## 19)
 
 ### **[terminal](./Resources/terminal_19.pdf)**
+
+## 20)
+
+### **per me qel folderin ku je ose file**
+
+folderin
+
+>```
+>start .
+>```
+
+file
+
+>```
+>start fileName.txt
+>```
+
+### **pwd** (print working dir)
+>```
+>per me dit ku je, dmth pathin
+>```
+
+## 23)
+
+
+### **VS Code Color Theme**
+>```
+>https://www.gitkraken.com/
+>```
