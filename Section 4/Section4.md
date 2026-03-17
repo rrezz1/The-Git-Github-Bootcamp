@@ -4,7 +4,7 @@
 
 ### **[Slides For This Section](./Resources/slide_24.pdf)**
 
-## 26)
+## 26-27)
 
 ### **per me kqyr a ki naj repository**
 >```
@@ -15,4 +15,13 @@
 >```
 >git init
 >```
->krijunem hiden file
+>nese e krijon , krijon hiden files mun mi pa me ls -a
+
+## 28)
+
+### **[!WARNING]**
+>```
+>do not init a a repo inside of a repo
+>```
+
+## 29)
