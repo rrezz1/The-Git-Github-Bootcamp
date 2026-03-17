@@ -73,4 +73,4 @@
 
 ## 19)
 
-### **[terminal](./Resources/slides_19.pdf)**
+### **[terminal](./Resources/terminal_19.pdf)**
