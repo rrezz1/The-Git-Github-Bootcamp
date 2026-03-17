@@ -26,5 +26,7 @@
 
 ### **git commit**
 >git commit
+>
 >press i to insert mode, shkrujna komentin nalt
+>
 >esc me dal prej insert mode :wq , write and quite
