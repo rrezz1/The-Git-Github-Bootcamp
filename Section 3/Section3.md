@@ -2,6 +2,6 @@
 
 ## 13)
 
-### **[slide](Slides-erminal-Crash-Course.pdf**
+### **[slide](Slides-erminal-Crash-Course.pdf)**
 
 
