@@ -40,7 +40,7 @@
 >creating and switch
 
 
-## 51)
+## 51-52)
 
 
 ### **sometimes kur bona switch pa i bo ndryshimet commit , ato vin me neve**
@@ -54,3 +54,9 @@
 >per me rename ni branch
 >
 >duhet mu kan mrean n to
+
+## 53)
+
+### **[branching exercise instructions ](https://www.notion.so/Branching-Exercise-b5460c881d56400cb046357d9a430bf8)**
+
+
