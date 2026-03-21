@@ -22,5 +22,29 @@
 >
 >branch jet hala sfshihet
 
-## **57**
+## **61**
 
+### **git switch -c**
+>krijon branch te ri dhe kalon direkt ne ate branch
+
+
+### **how to fix a conflict merge**
+>krijon branch te ri dhe kalon direkt ne ate branch
+>
+>git status
+>
+>hap filet me konflikt dhe rregullo manualisht (hiq <<<<<<< ======= >>>>>>>)
+>
+>git add .
+>
+>git commit
+
+## **62**
+
+### **git checkout -b**
+>krijon branch te ri dhe kalon direkt ne ate branch
+
+
+## **62**
+
+### **[merging exercise instructions](https://plum-poppy-0ea.notion.site/Git-Merging-Exercise-0236a17f04c847159a38f5efa978ce2c)**
