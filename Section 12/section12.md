@@ -42,4 +42,4 @@
 
 ## **112**
 
-[sc1](./Resource/sc1)
+[sc1](./Resource/sc1.png)
