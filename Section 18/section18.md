@@ -9,3 +9,20 @@
 
 ### **config**
 ![config](./Resources/sc2.png) 
+
+### **git config --local user.name userName**
+>shto emrin nese ska per local
+
+
+### **git config --local user.email userEmail**
+>shto email nese ska per local
+
+### **config file**
+>me qeta mujm mi ndrru configat psh ngjyrat e sene per local
+
+
+## **167)**
+
+### **refs folder**
+
+![reft](./Resources/sc3.png) 
