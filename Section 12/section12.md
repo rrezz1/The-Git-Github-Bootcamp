@@ -25,3 +25,19 @@
 >```
 >git checkout origin/food
 >```
+
+### **git checkout --trach origin/puppies**
+>Në GitHub ekziston: origin/puppies
+>
+>Ti bën këtë komandë
+>
+>Rezultati:
+>
+>krijohet puppies lokalisht
+>
+>kalon në atë branch
+>
+>vendoset upstream automatikisht
+
+
+## **112**
