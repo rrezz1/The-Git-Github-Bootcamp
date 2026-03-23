@@ -110,7 +110,7 @@ tani hin github -> setting -> SSH and GPG keys -> add new SSH key -> shkruje qat
 >me fshi
 
 
-## **101)**
+## **101-106)**
 
 ### **[git pusb docss](https://git-scm.com/docs/git-push)**
 
@@ -140,3 +140,22 @@ tani hin github -> setting -> SSH and GPG keys -> add new SSH key -> shkruje qat
 >```
 >git push
 >```
+>
+>nuk bon me bo te rastet <locakBranch>:<remoteBranch>
+
+
+## **107)**
+
+### **readMe**
+>nese  ebojna add readme ne github e bon main default repo
+>
+>per me rename vet:
+>```
+>git branch -M main
+>```
+
+
+## **108)**
+
+
+### **[Github Basics Exercise](https://plum-poppy-0ea.notion.site/Github-Basics-Exercise-1c12200326db47d7890702017602d698)**
