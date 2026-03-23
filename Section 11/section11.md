@@ -125,3 +125,18 @@ tani hin github -> setting -> SSH and GPG keys -> add new SSH key -> shkruje qat
 >git push origin cats:Master
 >
 >means: get senet prej our local Branch edhe boj push te remote Branch
+
+
+### **git push -u**
+>Upstream = branch-i remote me të cilin lidhet branch-i yt lokal
+>
+>Lokal: main (në PC)
+>
+>Remote: origin/main (në GitHub)
+>
+>Kur i lidh këto → krijohet upstream relationship
+>
+>pra nuk kena nevoj tash me bo git push origin bla bla po veq :
+>```
+>git push
+>```
