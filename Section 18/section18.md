@@ -8,4 +8,4 @@
 ### **[git config docs](https://git-scm.com/docs/git-config)**
 
 ### **config**
-![config](sc2.png)
+![config](./Resources/sc2.png) 
