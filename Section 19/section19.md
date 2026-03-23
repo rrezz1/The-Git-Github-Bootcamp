@@ -34,5 +34,5 @@
 
 ## **184)**
 
-### **gi reset --hard hash**
+### **git reset --hard hash**
 >per me undo ni rebase
