@@ -62,5 +62,9 @@
 
 ## **117**
 
-git pull
+### **git pull**
 ![sc2](./Resources/cs2.png)
+
+
+### **dallimi me feach edhe pull**
+![sc3](./Resources/sc3.png)
