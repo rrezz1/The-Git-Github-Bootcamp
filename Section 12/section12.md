@@ -43,3 +43,24 @@
 ## **112**
 
 ![sc1](./Resources/sc1.png)
+
+### **git fetch**
+>Merr ndryshimet nga remote (GitHub), por nuk i bashkon me kodin tënd
+
+### **git fetch <remote> <bramchName>**
+>e njejta amo me branch specifik
+>
+>git fetch → vetëm download
+
+## **115**
+
+### **git pull <remote> <bramchName>**
+>git pull → download + merge
+>
+>pull can result merge conflicts
+
+
+## **117**
+
+git pull
+![sc2](./Resources/sc2.png)
