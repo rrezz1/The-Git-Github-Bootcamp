@@ -63,4 +63,4 @@
 ## **117**
 
 git pull
-![sc2](./Resources/sc2.png)
+![sc2](./Resources/cs2.png)
