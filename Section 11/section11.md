@@ -89,3 +89,39 @@
 >```
 
 tani hin github -> setting -> SSH and GPG keys -> add new SSH key -> shkruje qata qe ta ka qit output prej cat ~/.ssh/id_ed25519.pub
+
+## **99-100**
+
+
+### **git remote -v**
+>per me kqyr a ekziston naj remotes per repo
+>
+>veq i liston remote , nese ska sqet sen
+
+
+### **git remote add <name> <url>**
+>per me kqyr a ekziston naj remotes per repo
+
+### **git remote rename <old> <new>**
+>me ja ndrru emrin
+
+
+### **git remote remove <name>**
+>me fshi
+
+
+## **101)**
+
+### **[git pusb docss](https://git-scm.com/docs/git-push)**
+
+### **git push <remote> <branch>**
+>per me push n repo
+>
+>git push origin master
+>
+>kto bohen update veq n banch specifik jo te kejt branch-at
+
+### **git push <remote> <locakBranch>:<remoteBranch>**
+>git push origin cats:Master
+>
+>means: get senet prej our local Branch edhe boj push te remote Branch
