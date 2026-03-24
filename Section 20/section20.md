@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5d445b87-df01-42b7-a271-c062954c7768" /># Section 20
+# Section 20
 
 ## **185)**
 
